@@ -1,0 +1,225 @@
+a:link { text-decoration:none;  }
+a:visited { text-decoration:none; }
+a:active { text-decoration:none; }
+a:hover { text-decoration: underline; }
+
+#navegador {
+   width:776px;
+   height:33px;
+   position:absolute;
+   top:97px;
+   left:1px;
+	background-image: url(../images/top_menu.gif);
+}
+
+.navtext {
+	font-size: 12px;
+	color: Black;
+	font-family : "Trebuchet MS", Verdana, Arial;
+}
+
+.mintext {
+	font-size: 10px;
+	color: Black;
+	font-family : "Trebuchet MS", Verdana, Arial;
+}
+
+.tittext {
+	font-size: 14px;
+	color: Black;
+	font-family : "Trebuchet MS", Verdana, Arial;
+}
+
+#logotrino {
+	width: 124px;
+	height: 93px;
+	position: absolute;
+	top: 1px;
+	left: 11px;
+	background-image: url(../images/logo_trino.gif);
+}
+
+#banner468 {
+	width: 468px;
+	height: 60px;
+	position: absolute;
+	top: 19px;
+	left: 155px;	
+}
+
+#webmail {
+	width: 135px;
+	height: 94px;
+	top: 1px;
+	left: 645px;
+	position: absolute;
+	background-image: url(../images/fnd_webmail.gif);
+}
+
+.ud_caixa {
+	font-family:Verdana;
+	font-size:8pt;
+	border-width:1pt;
+	border-top-color:rgb(51,51,51);
+	border-right-color:rgb(204,204,204);
+	border-bottom-color:rgb(204,204,204);
+	border-left-color:rgb(51,51,51);
+	border-style:solid;
+}
+
+#ofertas {
+	width: 232px;
+	height: 218px;
+	top: 133px;
+	left: 1px;
+	position: absolute;
+}
+
+#destaque {
+	width: 535px;
+	height: 179px;
+	top: 171px;
+	left: 242px;
+	position: absolute;
+	background-image: url(../images/fnd_destaque.gif);
+}
+
+#busca {
+	width: 536px;
+	height: 35px;
+	top: 133px;
+	left: 242px;
+	position: absolute;
+	background-image: url(../images/fnd_busca.gif);
+}
+
+#quer {
+	width: 432px;
+	height: 14px;
+	top: 499px;
+	left:174px;
+	position: absolute;
+}
+
+#menu {
+	width: 165px;
+	height: 454px;
+	top: 355px;
+	left: 1px;
+	position: absolute;
+	background-image: url(../images/fnd_menu.gif);
+}
+
+#menu_plus {
+	width: 165px;
+	height: 454px;
+	top: 133px;
+	left: 1px;
+	position: absolute;
+	background-image: url(../images/fnd_menu.gif);
+}
+
+#seusite {
+	width: 168px;
+	height: 33px;
+	top: 813px;
+	left: 0px;
+	position: absolute;
+}
+
+#enviar_artigo {
+	width: 168px;
+	height: 52px;
+	top: 847px;
+	left: 0px;
+	position: absolute;
+}
+
+#noticias {
+	width: 441px;
+	height: 164px;
+	top: 355px;
+	left: 170px;
+	position: absolute;
+	background-image: url(../images/fnd_noticias.gif);
+}
+
+#publicidade {
+	width: 164px;
+	height: 541px;
+	top: 355px;
+	left: 615px;
+	position: absolute;
+	background-image: url(../images/fnd_publicidade.gif);
+}
+
+#publicidadeInt {
+	width: 220px;
+	height: 195px;
+	top: 84px;
+	left: 372px;
+	position: absolute;
+}
+
+#publicidade_plus {
+	width: 164px;
+	height: 541px;
+	top: 133px;
+	left: 615px;
+	position: absolute;
+	background-image: url(../images/fnd_publicidade.gif);
+}
+
+#rodape {
+	width: 776px;
+	height: 43px;
+	position: absolute;
+	//*background-image: url(../images/fnd_rodape.gif);*//
+	background-color: Green;
+	top: 875 px;
+	left: 1px;
+}
+
+#enquete {
+	width: 281px;
+	height: 98px;
+	top: 800px;
+	left: 328px;
+	position: absolute;
+	background-image: url(../images/fnd_enquete.gif);
+}
+
+#calendario {
+	width: 151px;
+	height: 375px;
+	top: 525px;
+	left: 170px;
+	position: absolute;
+	background-image: url(../images/fnd_calendario.gif);
+}
+
+#dicas {
+	width: 288px;
+	height: 278px;
+	top: 521px;
+	left: 325px;
+	position: absolute;
+}
+
+#tabela_cont {
+	top: 143px;
+	left: 170px;
+	position: absolute;
+}
+
+.titulotext {
+	font-size: 18px;
+	color: Black;
+	font-family : "Trebuchet MS", Verdana, Arial;
+}
+
+.bodytext {
+	font-size: 13px;
+	color: Black;
+	font-family : "Trebuchet MS", Verdana, Arial;
+}

@@ -1,0 +1,3 @@
+<%
+Response.Redirect("http://tecnicabalancas.com.br/painel/stats/default.asp?SiteName=tecnicabalancas.com.br&LogFolder=Z:\Inetpub\wwwroot\leonardo\tecnicabalancas\tecnicabalancas.com.br\log\W3SVC1791201498\&OutputDir=Z:\Inetpub\wwwroot\leonardo\tecnicabalancas\tecnicabalancas.com.br\www\Stats&VisitTimeOut=30&DisplayCountryGraph=TRUE&DisplayDailyGraph=TRUE&DisplayDailyStats=TRUE&DisplayHourlyGraph=TRUE&DisplayHourlyStats=TRUE")
+%>
